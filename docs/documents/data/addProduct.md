@@ -35,7 +35,7 @@ post 方式
 ### 请求示例
 
 ```java
-http://iot.dev.idaqi.com/iext/back/openv1/IotController/deviceList
+http://iot.dev.idaqi.com/iext/back/openv1/IotController/addProduct
 ?ACCESS_TOKEN=您获取到的ACCESS_TOKEN
 &name=test
 &nodetype=1
