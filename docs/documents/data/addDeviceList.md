@@ -42,7 +42,12 @@ http://iot.dev.idaqi.com/iext/back/openv1/IotController/addDeviceList
 {
     "success": 1,
     "msg": "操作成功！",
-    "body": {}
+    "body": {
+       "pdids": [
+            306,
+            307
+        ]
+    }
 }
 ```
 
