@@ -35,7 +35,7 @@ post 方式
 ### 请求示例
 
 ```java
-http://iot.dev.idaqi.com/iext/back/openv1/IotController/addProduct
+http://iot.dev.idaqi.com/iext/back/openv1/IotController/deviceList
 ?ACCESS_TOKEN=您获取到的ACCESS_TOKEN
 &name=test
 &nodetype=1
@@ -54,9 +54,7 @@ http://iot.dev.idaqi.com/iext/back/openv1/IotController/addProduct
  {
     "success": 1,
     "msg": "操作成功！",
-    "body": {
-      "ppid":73
-    }
+    "body": {}
 }
 ```
 
